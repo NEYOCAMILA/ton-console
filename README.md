@@ -21,7 +21,7 @@ Launch a successful business with TON blockchain: manage dapps, tokens and payme
 
 ### Husky pre-commit hook
 Runs lint for staged files and checks typescript typings
-(You don't have to install or configure husky, it is done automatically) 
+(You² don't have to install or configure husky, it is done automatically) 
 
 ## Build for dev
 1. `nvm use`
